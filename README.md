@@ -1,22 +1,32 @@
 <div align="center">
 
+---
+layout: default
+title: Vivek Shivhare | Enterprise Architect
+---
+
 # VIVEK SHIVHARE
 
 ### Enterprise Architect · Generative AI & Agentic AI · Cloud & Data Transformation
 
 **Turning ambitious AI ideas into secure, scalable enterprise architecture.**
 
-![Enterprise Architecture](https://img.shields.io/badge/ENTERPRISE-ARCHITECTURE-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Generative AI](https://img.shields.io/badge/GENERATIVE-AI-4F46E5?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/CLOUD-NATIVE-0891B2?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Data](https://img.shields.io/badge/DATA-PLATFORMS-0F766E?style=for-the-badge&logo=apachespark&logoColor=white)
+![Enterprise Architecture](https://img.shields.io/badge/ENTERPRISE-ARCHITECTURE-0F172A?style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivharevivek/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivekshivhare)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Data%20%26%20ML-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vivekshivhare18)
-[![Email](https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amayra.vivek.shivhare@gmail.com)
+![Generative AI](https://img.shields.io/badge/GENERATIVE-AI-4F46E5?style=for-the-badge)
+
+![Cloud](https://img.shields.io/badge/CLOUD-NATIVE-0891B2?style=for-the-badge)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivharevivek/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github)](https://github.com/vivekshivhare)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Data_and_ML-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/vivekshivhare18)
+
+[Email Me](mailto:amayra.vivek.shivhare@gmail.com)
 
 📍 Phoenix, Arizona, USA
+
 
 </div>
 
